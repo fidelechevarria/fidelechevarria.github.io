@@ -18,7 +18,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'CV', link: '/CV'}
+  - {name: 'CV', link: '/CV-Fidel-Echevarria.pdf'}
 
 tagline: >
   Artificial Intelligence - Robotics - Optimization - Computer Vision
