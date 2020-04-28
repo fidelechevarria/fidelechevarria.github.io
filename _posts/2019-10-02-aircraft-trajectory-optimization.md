@@ -884,7 +884,7 @@ This application is open-source and licensed under the MIT license. [https://git
 
 **[6]** John T. Betts. *Practical Methods for Optimal Control and Estimation Using Nonlinear Programming* (2nd ed.). SIAM, 2010.
 
-**[7]** [http://www.fsd.mw.tum.de/software/falcon-m/](http://www.fsd.mw.tum.de/software/falcon-m/)
+**[7]** [https://www.fsd.lrg.tum.de/software/falcon-m](https://www.fsd.lrg.tum.de/software/falcon-m)
 
 **[8]** A. M. Kuethe and C. Y. Chow. *Foundations of Aerodynamics*. Wiley, 1984.
 
