@@ -6,10 +6,8 @@ permalink: /about/
 
 <br>
 
-Hello I'm Fidel,
+Hi there!
 
-I'm an aeronautical engineer interested in fields like autonomous driving, machine learning, computer vision and renewable energies.
+I'm Fidel. I am interested in fields like vehicle simulation, autonomous driving, artificial intelligence and computer vision.
 
-I'm currently gainfully employed at [UAV Navigation](https://www.uavnavigation.com/).
-
-I hope you enjoy this site!
+Hope you enjoy this site!
