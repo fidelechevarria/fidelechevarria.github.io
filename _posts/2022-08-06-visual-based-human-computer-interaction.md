@@ -3,7 +3,7 @@ layout: post
 title: Visual Based Human-Computer Interaction
 summary: Developing a desktop application for controlling the computer mouse cursor from detected face movement.
 categories: [Computer Vision, Machine Learning]
-# featured-img: rbar
+featured-img: insight
 mathjax: false
 ---
 
