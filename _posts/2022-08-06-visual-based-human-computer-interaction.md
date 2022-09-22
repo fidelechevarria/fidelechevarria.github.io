@@ -14,7 +14,7 @@ Machine learning is improving the state of the art in many fields of technology.
     <!-- <figcaption><p align="center"><b>Figure 1</b> - Faces</p></figcaption> -->
 </figure>
 
-In this context I have released a Microsoft Windows application which allows control of the mouse cursor by detected head movement. There is room for improvement, and more efficient visual based control methods and interactive functionalities to come. The app is now freely available in Windows 10/11 through the Microsoft Store. Please enjoy it, and feel free to contact at <fidel.echevarria@outlook.com> for any feedback or improvement suggestions.
+In this context I have released a Microsoft Windows application which allows control of the mouse cursor by detected head movement using a standard webcam. There is room for improvement, and more efficient visual based control methods and interactive functionalities to come. The app is now freely available in Windows 10/11 through the Microsoft Store. Please enjoy it, and feel free to contact at <fidel.echevarria@outlook.com> for any feedback or improvement suggestions.
 
 <script type="module" src="https://getbadgecdn.azureedge.net/ms-store-badge.bundled.js"></script>
 <ms-store-badge
