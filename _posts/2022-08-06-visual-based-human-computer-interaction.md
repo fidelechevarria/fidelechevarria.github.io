@@ -16,8 +16,10 @@ Machine learning is improving the state of the art in many fields of technology.
 
 In this context I have released a Microsoft Windows application which allows control of the mouse cursor by detected head movement using a standard webcam. There is room for improvement, and more efficient visual based control methods and interactive functionalities to come. The app is now freely available in Windows 10/11 through the Microsoft Store. Please enjoy it, and feel free to contact at <fidel.echevarria@outlook.com> for any feedback or improvement suggestions.
 
-<script type="module" src="https://getbadgecdn.azureedge.net/ms-store-badge.bundled.js"></script>
+<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
 <ms-store-badge
 productid ="9PGL5GSN68JG"
-animation="on">
+animation="on"
+window-mode="popup"
+theme="dark">
 </ms-store-badge>
