@@ -175,7 +175,7 @@ $$
 
 Where $\alpha$ refers to the aircraft angle of attack, $C_{L_0}$ and ${C_{D_0}}$ refer to the lift and drag coefficients at zero angle of attack, and $C_{L_{\alpha}}$ and ${K}$ are aerodynamic parameters dependant on the specific aircraft.
 
-Aicraft acceleration, $a$, can be modelled using Newton's first law of motion, having into account the vehicle mass, $m$.
+Aircraft acceleration, $a$, can be modelled using Newton's first law of motion, having into account the vehicle mass, $m$.
 
 <div class="mjx-chtml">
 $$
@@ -197,7 +197,7 @@ Where
 $$ \small \cos \left(\varphi \right) = \frac{1}{\sqrt{\left(\frac{V_{med}^2{\cdot}\kappa}{g} \right)^2 + 1}} \tag{12} $$
 </div>
 
-The solution of system of equations (10) and (11) for variable $V_{med}$ in order to find the medium velocity at each timestep reduces to a quartic equation, which can be solved using Ferrari's formula.
+The solution of system of equations (11) and (12) for variable $V_{med}$ in order to find the medium velocity at each timestep reduces to a quartic equation, which can be solved using Ferrari's formula.
 
 <div class="mjx-chtml">
 $$ \small a{\cdot}V_{med}^4 + b{\cdot}V_{med}^3 + c{\cdot}V_{med}^2 + d{\cdot}V_{med} + e = 0 \tag{13} $$
