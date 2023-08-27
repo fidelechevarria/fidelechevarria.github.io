@@ -20,6 +20,8 @@ We believe this application can make a positive difference in the lives of many 
 
 Thank you for your support and interest in Lima. Together, we can create a more accessible and equitable world for everyone.🌎
 
+<a href="https://www.producthunt.com/posts/lima-intelligent-interactions?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-lima&#0045;intelligent&#0045;interactions" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=401859&theme=neutral" alt="Lima&#0032;&#0045;&#0032;Intelligent&#0032;Interactions - Mouse&#0032;and&#0032;keyboard&#0032;control&#0032;with&#0032;your&#0032;face&#0032;and&#0032;voice&#0032;using&#0032;AI | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
 <ms-store-badge
 productid ="9PGL5GSN68JG"
