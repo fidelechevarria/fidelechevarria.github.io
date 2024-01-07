@@ -14,7 +14,7 @@ Machine learning is improving the state of the art in many fields of technology.
     <!-- <figcaption><p align="center"><b>Figure 1</b> - Faces</p></figcaption> -->
 </figure>
 
-In this context we have recently released [Lima](https://www.microsoft.com/store/apps/9PGL5GSN68JG), a Microsoft Windows application which allows control of the mouse cursor by detected head movement, facial expressions and voice commands using a standard webcam. There is room for improvement, and more efficient visual based control methods and interactive functionalities to come. The app is now freely available for Windows 10 and 11 through the Microsoft Store, with some premium functionalities. 
+In this context we have recently released [Lima](https://apps.microsoft.com/detail/9PGL5GSN68JG), a Microsoft Windows application which allows control of the mouse cursor by detected head movement, facial expressions and voice commands using a standard webcam. There is room for improvement, and more efficient visual based control methods and interactive functionalities to come. The app is now freely available for Windows 10 and 11 through the Microsoft Store, with some premium functionalities. 
 
 We believe this application can make a positive difference in the lives of many people who face challenges in using a mouse or keyboard. We hope you will give Lima a try and let us know what you think. We would love to hear your feedback and suggestions on how to improve the app and make it more useful. For that, please feel free to contact us at <fidel.echevarria@outlook.com>.
 
